@@ -16,6 +16,18 @@ draw = function(){
 
   //🎯New Text Code Should Go Here 🡻
 
+ fill(74, 49, 77);
+textSize(30);
+  text("~what I love~", 95,96);
+
+
+  fill(119, 76, 96);
+textSize(20);
+  text("my cats", 95,120);
+
+  text("playing games", 95,140);
+
+  text("my bedroom", 95,160);
 };
 
 //🟡Mouse Pressed Procedue - Runs When Mouse is Pressed on Canvas
